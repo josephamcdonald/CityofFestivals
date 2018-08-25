@@ -28,13 +28,15 @@ Open Source except for images (event logos, sponsor logos, musician photos.)
 
 ## Extras
 
-NavigationDrawer
+**NavigationDrawer**
 
-Fragments
+**Fragments**
 
-RecyclerView
+**RecyclerView**
 
-ViewHolder
+**Adapter**
+
+**ViewHolder**
 
 ## Acknowledgements
 
