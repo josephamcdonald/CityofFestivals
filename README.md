@@ -1,6 +1,6 @@
 # City of Festivals
 
-Milwaukee is the City of Festivals!
+### Milwaukee is the City of Festivals!
 
 ## Screenshots
 
