@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_fest"
+            android:icon="@drawable/ic_local_activity"
+            android:title="@string/fest" />
+        <item
+            android:id="@+id/nav_music"
+            android:icon="@drawable/ic_action_guitar"
+            android:title="@string/music" />
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/ic_restaurant"
+            android:title="@string/food" />
+        <item
+            android:id="@+id/nav_sponsor"
+            android:icon="@drawable/ic_attach_money"
+            android:title="@string/sponsor" />
+    </group>
+
+    <item android:title="@string/social">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_send"
+                android:title="@string/send" />
+        </menu>
+    </item>
+</menu>

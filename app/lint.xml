@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconColors">
+        <ignore path="src/main/res/drawable-hdpi/ic_action_globe.png" />
+        <ignore path="src/main/res/drawable-hdpi/ic_action_location.png" />
+        <ignore path="src/main/res/drawable-mdpi/ic_action_globe.png" />
+        <ignore path="src/main/res/drawable-mdpi/ic_action_location.png" />
+        <ignore path="src/main/res/drawable-xhdpi/ic_action_globe.png" />
+        <ignore path="src/main/res/drawable-xhdpi/ic_action_location.png" />
+        <ignore path="src/main/res/drawable-xxhdpi/ic_action_globe.png" />
+        <ignore path="src/main/res/drawable-xxhdpi/ic_action_globe.png" />
+        <ignore path="src/main/res/drawable-xxhdpi/ic_action_location.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/ic_action_globe.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/ic_action_location.png" />
+    </issue>
+</lint>

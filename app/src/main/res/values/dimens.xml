@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">192dp</dimen>
+    <dimen name="margin_standard">16dp</dimen>
+    <dimen name="padding_standard">16dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">88dp</dimen>
+
+    <!--Text in sp.-->
+    <dimen name="text_large">30sp</dimen>
+    <dimen name="text_standard">18sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+
+</resources>
