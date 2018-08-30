@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![Screenshot](/app/screenshots/Screenshot_Main.png) ![Screenshot](/app/screenshots/Screenshot_Drawer.png) ![Screenshot](/app/screenshots/Screenshot_Fests.png) ![Screenshot](/app/screenshots/Screenshot_Land.png)
+![Screenshot](/app/screenshots/Screenshot_Main.png) ![Screenshot](/app/screenshots/Screenshot_Drawer.png) ![Screenshot](/app/screenshots/Screenshot_Dest.png) ![Screenshot](/app/screenshots/Screenshot_Land.png)
 
 ## Built With
 
